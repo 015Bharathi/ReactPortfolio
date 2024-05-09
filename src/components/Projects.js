@@ -7,17 +7,17 @@ export default function Projects() {
         projects : [
             {
                 image: websiteImg1,
-                description: 'A Ecommerce Website. Built With MERN Stack',
-                link: 'https://github.com/015Bharathi/Django'
+                description: 'A Portfolio Website. Built With React.js',
+                link: 'https://github.com/015Bharathi/ReactPortfolio'
             },
             {
                 image: websiteImg2,
-                description: 'Food Ecommerce website like Swiggy, Build with Angular',
+                description: 'A CRUD operation, Build with Django',
                 link: 'https://github.com/015Bharathi/Django'
             },
             {
                 image: websiteImg3,
-                description: 'Basic Blog Website. Build with Next JS and MangoDB',
+                description: 'Basic Blog Website. Build with React.js',
                 link: 'https://github.com/015Bharathi/Django'
             }
         ]
